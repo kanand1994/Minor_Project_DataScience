@@ -1,10 +1,5 @@
 # National Health and Nutrition Examination Survey Analysis
 
-## Overview
-This project uses the **National Health and Nutrition Examination Survey (NHANES)** dataset to analyze the health and nutritional status of a population. The objective of this analysis is to explore relationships between various health metrics, demographic factors, and nutrition data. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization of key findings.
-
----
-
 ## Table of Contents
 - [Overview](#overview)
 - [Data Analysis](#data-analysis)
@@ -13,7 +8,8 @@ This project uses the **National Health and Nutrition Examination Survey (NHANES
 - [Contributing](#contributing)
 - [License](#license)
 
----
+## Overview
+This project uses the **National Health and Nutrition Examination Survey (NHANES)** dataset to analyze the health and nutritional status of a population. The objective of this analysis is to explore relationships between various health metrics, demographic factors, and nutrition data. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization of key findings.
 
 ## Data Analysis
 
